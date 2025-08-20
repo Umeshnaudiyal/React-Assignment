@@ -6,7 +6,7 @@ This is a pixel-perfect React.js authentication UI built for an internship assig
 
 ## 🔗 Live Demo
 
-> [Click here to view the live site](https://POP-X-assignment.netlify.app)
+> [Click here to view the live site](https://POP-X-assignment-main.netlify.app)
 
 ---
 
